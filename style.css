@@ -1,0 +1,13 @@
+body {
+  max-width: 100%;
+  max-height: 100vh;
+  background-color: #fff;
+}
+
+.button-style {
+  display: inline-block;
+  width: 200px;
+  height: 60px;
+  background-color: white;
+  border: 1px solid black;
+}
